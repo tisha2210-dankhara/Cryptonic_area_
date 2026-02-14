@@ -45,18 +45,18 @@ python app.py
 
 Open in browser: http://127.0.0.1:5000
 
-## Screenshots (Add your own later)
+## Screenshots 
 - **Home Page**  
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/1.jpg)
 
 - **Register Page**  
-![Register](screenshots/register.png)
+![Register](screenshots/2.jpg)
 
 - **Login Page**  
-![Login](screenshots/login.png)
+![Login](screenshots/5.jpg)
 
 - **Dashboard** (after login)  
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/7.jpg)
 
 ## Security Highlights
 - No plain-text passwords stored
